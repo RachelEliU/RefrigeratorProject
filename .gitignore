@@ -75,6 +75,7 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
+*.Properties
 *.iobj
 *.pch
 *.pdb
@@ -87,6 +88,7 @@ StyleCopReport.xml
 *.tli
 *.tlh
 *.tmp
+*.config
 *.tmp_proj
 *_wpftmp.csproj
 *.log
@@ -396,3 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*
